@@ -1,8 +1,47 @@
 {
   "wallpapers":[
     {
-      "author":"Pawel Czerwinski",
-      "url":"https://github.com/Themeland91/Gradient-Wallpapers/blob/master/11.png?raw=true",
-      "name":"Purple Spread",
-      "thumbnail":"https://github.com/Themeland91/Gradient-Wallpapers/blob/master/11.png?raw=true"
+      "author":"UnSplash",
+      "url":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/01.jpg?raw=true",
+      "name":"01",
+      "thumbnail":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/01.jpg?raw=true"
+    }, 
+    {
+      "author":"UnSplash",
+      "url":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/02.jpg?raw=true",
+      "name":"02",
+      "thumbnail":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/02.jpg?raw=true"
     },
+    {
+      "author":"UnSplash",
+      "url":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/03.jpg?raw=true",
+      "name":"03",
+      "thumbnail":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/03.jpg?raw=true"
+    },
+    {
+      "author":"UnSplash",
+      "url":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/04.jpg?raw=true",
+      "name":"04",
+      "thumbnail":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/04.jpg?raw=true"
+    },
+    {
+      "author":"UnSplash",
+      "url":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/05.jpg?raw=true",
+      "name":"05",
+      "thumbnail":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/05.jpg?raw=true"
+    },
+    {
+      "author":"UnSplash",
+      "url":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/06.jpg?raw=true",
+      "name":"06",
+      "thumbnail":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/06.jpg?raw=true"
+    },
+    {
+      "author":"UnSplash",
+      "url":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/07.jpg?raw=true",
+      "name":"07",
+      "thumbnail":"https://github.com/Themeland91/Gracious-Wallpapers/blob/main/07.jpg?raw=true"
+    }
+  ]
+}
+
